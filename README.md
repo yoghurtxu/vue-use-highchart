@@ -16,3 +16,8 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+项目实例代码及运行过程说明：
+https://blog.jianshukeji.com/highcharts/use-highcharts-with-vue.html
+
+
